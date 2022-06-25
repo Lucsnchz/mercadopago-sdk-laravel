@@ -2,8 +2,7 @@
 /**
  * Disbursement Refund class file
  */
-namespace MercadoPago\AdvancedPayments;
-namespace MercadoPago\Entities\Shared;
+namespace MercadoPago\\dx-php\\\AdvancedPayments;
 
 use MercadoPago\Annotation\RestMethod;
 use MercadoPago\Annotation\RequestParam;
