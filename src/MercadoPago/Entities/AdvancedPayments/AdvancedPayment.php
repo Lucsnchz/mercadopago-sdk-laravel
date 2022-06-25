@@ -1,5 +1,5 @@
 <?php
-namespace MercadoPago\Entities\Shared;
+namespace MercadoPago\Entities\Shared\AdvancedPayments;
 
 use MercadoPago\Annotation\RestMethod;
 use MercadoPago\Annotation\RequestParam;
