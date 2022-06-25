@@ -1,8 +1,7 @@
 <?php
 
 namespace MercadoPago\AdvancedPayments;
-namespace MercadoPago\Entities\Shared;
-namespace MercadoPago;
+namespace MercadoPago\Entities\AdvancedPayments;
 
 
 use MercadoPago\Annotation\RestMethod;
